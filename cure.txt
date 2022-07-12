@@ -36,3 +36,16 @@
     ->  not understand > try to understand
 
 12. rem units are used in fonts because they hold the responsiveness
+
+13. outline: none !important;
+   -> means the dotted line comes after border line..
+
+14. display: block : 
+   -> means it takes the whole line i.e. width = 100%
+   while display : inline ; takes the heighyt and width accordingly not whole here...
+
+15. .menu-btn i.active:before {
+        content: "\f00d";
+    }
+    -> creating the cross symbol before the menu-btn before : in front
+    
